@@ -101,6 +101,7 @@ For Transient Analysis Settings and Output
 
  For DC Analysis Settings and Output
 ![cmos vlsi diagram 2](https://github.com/user-attachments/assets/02330e73-8a55-4f41-a6df-4b119b0972d4)
+![EX 1](https://github.com/user-attachments/assets/62595e74-4b78-496b-84a9-a65af12ec2ee)
 
 
 
