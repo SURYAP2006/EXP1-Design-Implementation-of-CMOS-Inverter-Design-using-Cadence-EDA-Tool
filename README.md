@@ -95,14 +95,13 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+![vlsi cmos diagram](https://github.com/user-attachments/assets/360fd9cb-77c9-4f9d-9e2b-5b2fe33b81e3)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+![graph 1](https://github.com/user-attachments/assets/6653cbeb-a80c-4fae-ad80-f1af8682552e)
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+![cmos vlsi diagram 2](https://github.com/user-attachments/assets/02330e73-8a55-4f41-a6df-4b119b0972d4)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
 
 
 
