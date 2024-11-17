@@ -40,20 +40,30 @@ v.	Analog simulation by spectre
 •	Attach the library to the technology library gpdk045.Click OK
 
 # ii)	Create Schematic Cell view.
+```
 •	Go to 1st window i.e virtuoso (CIW)
 •	File-New-Cell view
 •	Setup the new file form
 	Library: Select the one you created.
 	Cell: Give the experiment name Ex: Inverter ViewSchematic
 	Type: Schematic press OK
+```
 •	Add the required components from the libraries and make the connections.
+
 	Go to instance fixed menu or use shortcut key “I” from keypad to go instances
+
 	Click on browse. This opens the library browser
+
 	Now select the appropriate library for components like 
+
 	Gpdk45 ------------------------nmos1v, pmos1v
+
 	Create Input and Output pins
+
 	Make the connections by using fixed narrow wire key
+
 	Click Check and Save button
+
 ![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
 
 
