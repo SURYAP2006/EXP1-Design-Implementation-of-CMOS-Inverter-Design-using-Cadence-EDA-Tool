@@ -40,14 +40,19 @@ v.	Analog simulation by spectre
 •	Attach the library to the technology library gpdk045.Click OK
 
 # ii)	Create Schematic Cell view.
-```
+
 •	Go to 1st window i.e virtuoso (CIW)
+
 •	File-New-Cell view
+
 •	Setup the new file form
+
 	Library: Select the one you created.
+
 	Cell: Give the experiment name Ex: Inverter ViewSchematic
+
 	Type: Schematic press OK
-```
+
 •	Add the required components from the libraries and make the connections.
 
 	Go to instance fixed menu or use shortcut key “I” from keypad to go instances
@@ -71,15 +76,25 @@ v.	Analog simulation by spectre
 # iii)	Creating the Symbol for schematic Cell view
 
 •	In the schematic window, execute 
+
 	Create – Cell view – From Cell view
+
 	The cell view from cell view window appears
+
 	Check Lib Name, Cell Name, From View name must be schematic Press ok
+
 •	Now Symbol generation form appears. Click Ok If No changes required
+
 •	A new window with with default symbol is created.
+
 •	Edit the symbol if you want to give actual symbol shape else continue.
+
 •	Execute Create-Cell view-from cell view
+
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
+
 •	Check for the position of pin side.Prss OK
+
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
  ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
@@ -88,26 +103,44 @@ v.	Analog simulation by spectre
 # iv)	Creating the new test cell view
 
 •	Go to CIW window, Execute File-New-Cell view
+
 	Setup the new file form
+
 	Library: Select the one you created.
+
 	Cell: Cell name must be different from the name used in schematic cell view. Ex: Inverter_test
+
 	View: Schematic
+
 	Type: Schematic press OK
+
 •	Follow the step 3(ii) d to make the required connections
+
+
 ![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
 
 
  
 ### Analog simulation by SPECTRE.
 •	In test cell view window
+
 •	Launch – ADE L(Analog Design Environment)
+
 	Execute Setup—Simulation/directory/Host A new window opens
+
 	Set the simulation window to spectre and click ok
+
 	Execute Analysis – Choose. A window opens.
+
 	Select the type and set the specifications and press OK
+
 	Execute Output s—to be plotted – Select on Schematic
+
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
+
 •	Execute Simulation -- Net list and Run
+
+
  ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
 
 ### For Transient Analysis Settings and Output
@@ -117,8 +150,10 @@ v.	Analog simulation by spectre
 
 ![graph 1](https://github.com/user-attachments/assets/6653cbeb-a80c-4fae-ad80-f1af8682552e)
 
- For DC Analysis Settings and Output
+## For DC Analysis Settings and Output:
 ![cmos vlsi diagram 2](https://github.com/user-attachments/assets/02330e73-8a55-4f41-a6df-4b119b0972d4)
+
+
 ![EX 1](https://github.com/user-attachments/assets/62595e74-4b78-496b-84a9-a65af12ec2ee)
 
 
